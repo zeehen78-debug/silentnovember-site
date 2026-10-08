@@ -1,0 +1,1 @@
+SilentNovember V2. Upload all files to your GitHub Pages repository root, replacing the previous files. Replace the contact email before publishing.
